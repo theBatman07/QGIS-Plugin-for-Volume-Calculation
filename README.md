@@ -31,6 +31,12 @@ The `VolumeCalculation` plugin leverages Python, GDAL, and QGIS libraries to:
 - Open QGIS, click on Plugins > Manage and Install Plugins > Settings, and enable Show also Experimental Plugins
   
 - Go to Install from Zip and Choose the Zip file from the clone repo (VolumeCalculator.zip) and Click on Install Plugin
+
+    ![Install from Zip](img/install.png)
+
+    **Installed Plugins**
+
+    ![After Installation](img/check.png) 
   
 - You can now see the Plugin in QGIS Processing Toolbox. (You can also search for 'Volume Calculation' and will show the plugin)
   
@@ -45,6 +51,9 @@ The `VolumeCalculation` plugin leverages Python, GDAL, and QGIS libraries to:
   
   - Open the Volume Calculation tool from the QGIS Processing Toolbox.
   - Select the layers for DEM, Base DEM, and Heap Polygon.
+
+    ![Plugin Select Layers](img/selectdem.png)
+
   - Click “Run” to process the layers and calculate volumes.
 3. **Output**:
   
