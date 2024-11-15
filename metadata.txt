@@ -1,0 +1,19 @@
+[general]
+name=Volume Calculator
+qgisMinimumVersion=3.0
+description=Calculate volume between two DEMs within a polygon
+version=1.0
+author=Gaurav Khater
+email=gauravkhater@gmail.com
+
+about=This plugin calculates cut, fill and net volumes between two DEMs within specified polygon areas.
+repository=URL to your repository
+tracker=URL to your bug tracker
+
+tags=analysis,dem,volume,raster
+
+homepage=URL to your plugin homepage
+category=Raster
+icon=icon.png
+experimental=False
+deprecated=False
