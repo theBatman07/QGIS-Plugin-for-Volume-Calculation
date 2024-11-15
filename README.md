@@ -30,7 +30,7 @@ The `VolumeCalculation` plugin leverages Python, GDAL, and QGIS libraries to:
   
 - Open QGIS, click on Plugins > Manage and Install Plugins > Settings, and enable Show also Experimental Plugins
   
-- Go to Install from Zip and Choose the Zip file from the clone repo and Click on Install Plugin
+- Go to Install from Zip and Choose the Zip file from the clone repo (VolumeCalculator.zip) and Click on Install Plugin
   
 - You can now see the Plugin in QGIS Processing Toolbox. (You can also search for 'Volume Calculation' and will show the plugin)
   
