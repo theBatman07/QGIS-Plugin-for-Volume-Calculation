@@ -25,7 +25,7 @@ The `VolumeCalculation` plugin leverages Python, GDAL, and QGIS libraries to:
 - Clone the GitHub repo -
   
   ```bash
-  git clone
+  git clone https://github.com/theBatman07/QGIS-Plugin-for-Volume-Calculation.git
   ```
   
 - Open QGIS, click on Plugins > Manage and Install Plugins > Settings, and enable Show also Experimental Plugins
